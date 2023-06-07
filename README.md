@@ -4,7 +4,7 @@ This project is to test my ability to work on .txt file documents (WhatsApp)
 ---
 
 ## Project Description
-I was given the assignment to analyze data in a txt file from a WhatsApp group, I chose the most active group because the group has a lot of data for me to work with. Working on this project has helped me improve on my skill in working with unstructured dataset.
+I challenged myself to work on and analyze data in a txt file from a WhatsApp group, I chose the most active group because the group has a lot of data for me to work with. Working on this project has helped me improve on my skill in working with unstructured dataset.
 
 ## Problem
 The project is designed to find answers to these questions. Who are the most active persons in the group? Who are the least active persons in the group? 
